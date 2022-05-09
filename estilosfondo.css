@@ -1,0 +1,205 @@
+body
+{
+margin 0 auto;
+width: 1350px;
+height:800px;
+background: url('Imagenes/fondo.png');
+background-size: 1400px, 800px ;
+}
+#contenedor
+{
+  width: 1360px;
+  height: 800px;
+  background: url("Imagenes/nubes.jpg");
+  background-repeat: no-repeat;
+  background-size: 1700px, 800px ;
+  float:left;
+}
+#baner
+{
+  width: 1360px;
+  height: 150px;
+  float:left;
+}
+
+#logo
+{
+  background: url("Imagenes/nube.png");
+  background-size: 100px, 95px ;
+  background-repeat: no-repeat;
+  width: 100px;
+  height: 100px;
+  margin-top: 35px;
+  margin-left: 400px;
+
+/*<a href="http://...>  <img src="ruta(image/jellyfish.jpg)" width = 100  height = 100/></a>
+  se recomienda poner en png*/
+  float:left;
+}
+
+#cuadro_titulo
+{
+  width: 400px;
+  height: 70px;
+  background: #41A3D5;
+  margin-top: 40px;
+  margin-left: 20px;
+  float:left;
+  border-radius: 10px 0px 10px 0px;
+  color: #FFFFFF;
+}
+
+#menu
+{
+  width: 1360px;
+  height: 50px;
+  float: left;
+}
+ul#menu{
+text-align:center;
+padding:0;
+}
+
+ul#menu li{
+display:inline;
+}
+
+ul#menu li a /*horizontal*/
+{
+background: #2FDE0D;
+color: #FFFFFF;
+font-size:20px;
+border-radius: 10px 10px 0px 0px;
+padding:15px 50px;
+text-decoration:none;}
+
+ul#menu li a:hover /*mouse*/
+{background: #41A3D5;
+}
+
+#lateral
+{
+  width: 360px;
+  height: 600px;
+  background: #F2FC20;
+  float: left;
+}
+
+#centro
+{
+  width: 900px;
+  height: 1650px;
+  background:url("Imagenes/fondo.png");
+  opacity:50%;
+  background-repeat: no-repeat;
+  /*background-size: 1000px, 600px ;*/
+  float: left;
+  padding-left: 50px;
+  padding-right: 50px;
+  padding-bottom: 50px;
+  margin-left: 180px;
+}
+
+#noticias
+{
+  width: 900px;
+  height: 1650px;
+  float: left;
+  padding-left: 50px;
+  padding-right: 50px;
+  padding-bottom: 50px;
+  margin-left: 180px;
+}
+
+#datos
+{
+  width: 900px;
+  height: 650px;
+  float: left;
+  padding-left: 50px;
+  padding-right: 50px;
+  padding-bottom: 50px;
+  margin-left: 180px;
+}
+
+#copyright1
+{
+  width: 337.5px;
+  height: 90px;
+  background: #A5A3A2;
+  float: left;
+}
+#copyright2
+{
+  width: 337.5px;
+  height: 90px;
+  background: #A5A3A2;
+  float: left;
+}
+#copyright3
+{
+  width: 337.5px;
+  height: 90px;
+  background: #A5A3A2;
+  float: left;
+}
+#copyright4
+{
+  width: 337.5px;
+  height: 90px;
+  background: #A5A3A2;
+  float: left;
+}
+
+
+
+/*margin: 10px;
+margin: 10px 5px;
+margin: 2px 5px 3px 8px;
+margin: 2px 5px 3px;
+margin-top: 20px;
+margin-top: 25%;
+margin-left:
+margin-right:
+margin-bottom:*/
+
+#fondo
+{
+  width: 1360px;
+  height: 600px;
+  float: left;
+}
+
+#lateral2
+{
+  width: 550px;
+  height: 600px;
+  float: left;
+}
+
+#registro
+{
+  width: 810px;
+  height: 600px;
+  float: left;
+}
+
+#lateral3
+{
+  width: 203px;
+  height: 600px;
+  float: left;
+}
+
+#galeria
+{
+  width: 1100px;
+  height: 600px;
+  float: left;
+}
+td
+{
+  width: 35;
+  height: 30;
+  text-align:center;
+}
